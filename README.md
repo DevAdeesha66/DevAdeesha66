@@ -18,7 +18,7 @@
 ## 📫 Let's Connect!  
 - Check out my repositories and feel free to contribute!
 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevAdeesha66&show_icons=true&theme=radical)
+  
 
 
   
